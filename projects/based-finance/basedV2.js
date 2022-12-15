@@ -29,3 +29,4 @@ module.exports = {
     staking: stakings([BoardroomV2, shortNodes, mediumNodes, longNodes, ], smelt, "fantom"),
   },
 };
+// test
